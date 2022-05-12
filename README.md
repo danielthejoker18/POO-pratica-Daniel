@@ -13,3 +13,4 @@
 Acesse as issues do projeto [aqui](https://github.com/cavalcantigor/POO-pratica/issues/1) e comente como resposta na issue com o link para seu repositório github contendo a solução das questões.
 
 O repositório criado deverá conter três branches: **questao-1**, **questao-2** e **questao-3**. Cada uma delas com a solução da questão relacionada.
+Daniel
