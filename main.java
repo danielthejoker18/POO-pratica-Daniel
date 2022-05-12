@@ -5,8 +5,12 @@ public class Class {
         Pessoa[] pessoas = new Pessoa[3];
         for(int = 0; i < 3; i++){
             pessoa[i] = new Pessoa();
+            try{
             System.out.println("Entre com o nome da pessoa ".i+1);
             pessoas[i].getNome(ler.nextline());
+            }catch(Exception e){
+                System.out.println(e);
+            }
             ler.nextLine();
         }
     }
