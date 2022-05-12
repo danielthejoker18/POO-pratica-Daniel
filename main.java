@@ -6,7 +6,7 @@ public class Class {
         for(int = 0; i < 3; i++){
             pessoa[i] = new Pessoa();
             try{
-            System.out.println("Entre com o nome da pessoa ".i+1);
+            System.out.println("Entre com o nome da pessoa "+i+1);
             pessoas[i].getNome(ler.nextline());
             }catch(Exception e){
                 System.out.println(e);
